@@ -7,8 +7,6 @@ Hello! My name is Hailemariam Brendon and I am Junior Java Developer. I am from 
 <a href="https://www.linkedin.com/in/haile-brendon/">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="100px"/>
 </a>
-</br>
-</br>
 💬 If you have any feedback or would like to collaborate, please feel free reach out!
 
 ## My Portfolio
