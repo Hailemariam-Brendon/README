@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Hailemariam Brendon Junior Java Developer 2026" src="https://github.com/user-attachments/assets/d2a132c3-febc-4ca5-91c7-d394cde25d63" />
+<img width="1584" height="396" alt="Hailemariam Brendon Junior Java Developer LinkedIn Banner 2026" src="https://github.com/user-attachments/assets/908ea684-e7c6-41ce-a9fa-13f1487e078a" />
+
 
 
 Hello! My name is Hailemariam Brendon and I am Junior Java Developer. I am from the Unites States of America. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found hiking nature trails, playing guitar, and listening to music.
