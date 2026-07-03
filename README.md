@@ -19,13 +19,7 @@ Hello! My name is Hailemariam Brendon and I am Junior Java Developer. I am from 
 - [Finance application](https://github.com/HaileB65/MyBudgetApp)
 
 ## 🔭 I'm currently working on
-SupplyChainApplication (Logistics Website)
-
-HailemariamBrendon.com (Personal Portfolio)
-
-SupperCleanCarWash (Freelance)
-
-FitPro (Fitness App)
+SupplyChain Application(Logistics Website)
 
 ## 🌱 I'm currently learning
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
