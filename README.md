@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Blue and Black Modern Developer LinkedIn Banner v5 (4)" src="https://github.com/user-attachments/assets/de2af141-3447-4947-9eb6-1f50d1837b4b" />
 
 
-Hello! My name is Haile Brendon and I'm from the USA. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found running nature trails, playing guitar, and listening to music.
+Hello! My name is Hailemariam Brendon and am a Java Developer. I am from the Unites States of America. ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") I currently live in the Central Standard Time Zone. ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/WW.png) I am a huge fan of Java, Spring Framework, and Web Development. When I'm not learning more about Java or Backend Development, I can be found hiking nature trails, playing guitar, and listening to music.
 
 ### 🤝 Connect with me:
 
