@@ -33,9 +33,4 @@ SupplyChain Application(Logistics Website)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 ## 📈 GitHub Stats 
-![Hailemariam-Brendon's Stats](https://github-readme-stats.vercel.app/api?username=Hailemariam-Brendon&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![Hailemariam-Brendon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hailemariam-Brendon&theme=default&hide_border=true)
-
-![Hailemariam-Brendon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailemariam-Brendon&theme=default&show_icons=true&hide_border=true&layout=compact)
 
